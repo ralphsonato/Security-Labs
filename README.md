@@ -1,7 +1,7 @@
-# 🛠️ Security Labs & Offensive Research
+# 🛠️ Security Labs
 ### Repositório de Estudos Técnicos, Write-ups de CTFs.
 
-Este repositório serve como uma documentação viva da minha jornada em **Cibersegurança**. Aqui guardo os relatórios técnicos de laboratórios explorados (INE, HTB, THM).
+Este repositório serve como uma documentação viva da minha jornada em **Cibersegurança**. Aqui guardo os relatórios técnicos de laboratórios explorados.
 
 ---
 
