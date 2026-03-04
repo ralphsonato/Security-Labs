@@ -48,7 +48,7 @@ smbclient //10.67.176.22/milesdyson -U 'milesdyson%)s{A&2Z=F^n_E.B`'
 ```
 Dentro da pasta notes, li o arquivo important.txt, que revelou um diretório oculto no servidor web utilizado para testes de um CMS beta: /45kra24zxs28v3yd.
 
-## 2.2 Exploração de RFI (Remote File Inclusion)
+### 2.2 Exploração de RFI (Remote File Inclusion)
 O diretório oculto revelou o uso do Cuppa CMS. Pesquisei vulnerabilidades públicas para este sistema:
 ```
 searchsploit cuppa
