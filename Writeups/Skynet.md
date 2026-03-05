@@ -116,3 +116,5 @@ touch "./--checkpoint-action=exec=sh root.sh"
 ```
 Temos o root! 🚩
 
+**Escrito por:** [Ralph Sonato](https://www.linkedin.com/in/ralph-sonato-77086b16b/)  
+*Analista de Cibersegurança*
