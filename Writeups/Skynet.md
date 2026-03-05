@@ -3,6 +3,10 @@
 > **Data:** 03 de Março de 2026  
 > **Target IP:** `10.67.176.22`
 
+![Status](https://img.shields.io/badge/Status-Comprometimento%20Total-red?style=for-the-badge) 
+![Initial Access](https://img.shields.io/badge/Initial%20Access-RFI%20%7C%20Cuppa%20CMS-orange?style=for-the-badge)
+![PrivEsc](https://img.shields.io/badge/PrivEsc-Tar%20Wildcard%20Injection-blue?style=for-the-badge)
+
 ---
 
 O desafio **Skynet** é um laboratório focado em reconhecimento e exploração de falhas em serviços comuns como SMB, POP3 e aplicações web.
