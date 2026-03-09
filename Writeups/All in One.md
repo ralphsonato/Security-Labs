@@ -40,7 +40,7 @@ Using binary mode to transfer files.
 ftp>
 ```
 
-A porta 80 está mostrando apenas a página padrão do Ubuntu. Isso quase sempre significa que existem diretórios ou aplicações escondidas
+A porta 80 está mostrando apenas uma página simples. Isso quase sempre significa que existem diretórios ou aplicações escondidas
 
 ```bash
 gobuster dir -u http://10.67.185.79 -w /usr/share/wordlists/dirb/common.txt
