@@ -1,15 +1,6 @@
 
 
-<div align="center">
-  <a href="SEU_LINK_DO_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/LinkedIn-Ralph_Sonato-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <p><i>Analista de Cibersegurança | Pentester | Red Team</i></p>
-</div>
-
-
-
-
-
-> Este repositório serve como uma documentação viva da minha jornada em **Cibersegurança**. Aqui guardo os relatórios técnicos (write-ups) de laboratórios explorados, detalhando desde o reconhecimento até a escalação de privilégios.
+Este repositório serve como uma documentação viva da minha jornada em **Cibersegurança**. Aqui guardo os relatórios técnicos (write-ups) de laboratórios explorados, detalhando desde o reconhecimento até a escalação de privilégios.
 
 
 
